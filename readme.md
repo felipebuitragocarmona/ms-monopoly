@@ -1,4 +1,4 @@
-# Backend Naval Battle
+# Backend Monopoly
 
 Esta es una API en Flask para registrar y consultar los puntajes de un juego, junto con información de países.
 
